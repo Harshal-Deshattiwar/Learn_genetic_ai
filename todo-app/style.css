@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; background-color: #f4f4f4; }
+.container { max-width: 400px; margin: auto; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.3); }
+h1 { text-align: center; }
+#todo-input { width: 70%; padding: 10px; margin-right: 10px; border: 1px solid #ccc; border-radius: 4px; }
+#add-btn { padding: 10px 20px; border: none; background-color: #28a745; color: white; border-radius: 4px; cursor: pointer; }
+#add-btn:hover { background-color: #218838; }
+ul { list-style-type: none; padding-left: 0; }
+li { padding: 10px; background: #eee; margin-bottom: 5px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center; }
+li.completed { text-decoration: line-through; color: #888; }
+button.delete-btn { background-color: #dc3545; border: none; color: white; padding: 5px 10px; border-radius: 4px; cursor: pointer; }
+button.delete-btn:hover { background-color: #c82333; }
