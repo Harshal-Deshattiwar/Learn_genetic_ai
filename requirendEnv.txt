@@ -1,0 +1,9 @@
+export OPENAI_API_KEY=""
+export GEMINI_API_KEY = ""
+
+export NEO4J_URI=neo4j+s://97ae30ae.databases.neo4j.io
+export NEO4J_USERNAME=97ae30ae
+export NEO4J_PASSWORD=WEKXOOff8DkvipMxBz4McUph8-EBQnagjn6LIEoR1Is
+export NEO4J_DATABASE=97ae30ae
+export AURA_INSTANCEID=97ae30ae
+export AURA_INSTANCENAME=Instance01
